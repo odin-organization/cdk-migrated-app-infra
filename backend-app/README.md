@@ -1,4 +1,4 @@
-# MY REACT SHOP - A MERN Example
+#  A MERN Example
 
 ## Summary of the demo
 
